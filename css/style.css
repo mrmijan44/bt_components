@@ -1,0 +1,23 @@
+* {
+	margin: 0;
+	padding: 0;
+	font-family: mnt_r;
+}
+
+@font-face {
+	font-family: asn_r;
+	src: url(../fonts/asn_r.ttf);
+}
+@font-face {
+	font-family: bbn_r;
+	src: url(../fonts/bbn_r.ttf);
+}
+@font-face {
+	font-family: mnt_b;
+	src: url(../fonts/mnt_b.ttf);
+}
+@font-face {
+	font-family: mnt_r;
+	src: url(../fonts/mnt_r.ttf);
+}
+
